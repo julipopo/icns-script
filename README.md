@@ -5,3 +5,7 @@ simple script to create icns icon files from pngs
 `./icns.sh <png-file> <optional-icns-name>`
 
 **Enjoy 😊**
+
+## License
+
+[MIT](https://github.com/callodacity/icns-script/blob/master/LICENSE)
