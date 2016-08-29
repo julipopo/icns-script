@@ -3,7 +3,7 @@
 # $2 optional name
 
 path="$1"
-name=${2:-${PATH}}
+name=${2:-${path}}
 
 mkdir ${name}.iconset
 sips -z 16 16     $path --out ${name}.iconset/icon_16x16.png
